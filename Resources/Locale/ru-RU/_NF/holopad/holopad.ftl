@@ -1,6 +1,6 @@
 # Mapping prototypes
 # General
-nf-holopad-general-laboratory = Anomalous Laboratory
+nf-holopad-general-laboratory = Лабороторя аномилимтики
 nf-holopad-general-bahama = Bahama Mama's
 nf-holopad-general-courthouse-witness = Courthouse - Witness Stand
 nf-holopad-general-courthouse-defendant = Courthouse - Defendant's Stand
